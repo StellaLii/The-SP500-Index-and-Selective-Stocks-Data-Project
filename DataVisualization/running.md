@@ -1,0 +1,1 @@
+To run this application, please ensure you have docker and docker-compose installed. Then, run the application with command  `docker compose up -d`. When the all pages are successfully compiled, data visualization is shown via `localhost:3000`.
