@@ -1,4 +1,4 @@
-# CPMT732 Final Project
+# The-SP500-Index-and-Selective-Stocks-Data-Project
 This project is designed for rookie investors, which help them better understand the capital market from the Macro Index, such as S&P 500 index. From the selected stocks in S&P 500, we made further analysis show them how to choose good-quality stocks. According to our outcomes, our project is good tool to let people understand the correlation of macro index and the economy, the trend and forecast of stocks, and how to choose the right time to invest.
 
 
@@ -32,10 +32,4 @@ Python Flask framework(https://flask.palletsprojects.com/en/2.2.x/)
 
 **Application containerization:**\
 Docker(https://www.docker.com/)
-
-## Team Members
-Jianan Li, jla878 \
-Xiner Qian, xqa12 \
-Wenzheng Chen, wca132 \
-Haimo Xu, hxa31 
  
