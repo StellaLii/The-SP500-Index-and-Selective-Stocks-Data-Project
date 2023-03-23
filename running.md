@@ -1,12 +1,12 @@
-Prerequisite:
+**Prerequisite:**  
     To run this application, please ensure you have docker and docker-compose installed.
     docker and docker-compose installed.
 
-Docker installation
+**Docker installation**
 
     https://docs.docker.com/get-docker/
 
-Run App
+**Run App**
 
     1. Open Docker Desktop and wait until the Docker engine is ready
 
